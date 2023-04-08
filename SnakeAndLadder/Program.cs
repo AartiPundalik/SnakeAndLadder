@@ -12,6 +12,9 @@ namespace SnakeAndLadder
         {
             SnakeAndLadder snakeandladder = new SnakeAndLadder();
             snakeandladder.SinglePlayer();
+
+            DiceRoll getnumber = new DiceRoll();
+            getnumber.RollTheDice();
         }
     }
 }
