@@ -46,6 +46,7 @@
     <Compile Include="CheckOption.cs" />
     <Compile Include="DiceRoll.cs" />
     <Compile Include="ExactWinning.cs" />
+    <Compile Include="For2Players.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SnakeAndLadder.cs" />
