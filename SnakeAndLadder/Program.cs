@@ -24,6 +24,9 @@ namespace SnakeAndLadder
 
             ExactWinning OBJ = new ExactWinning();
             OBJ.Position100();
+
+            WinTheGame everyroll = new WinTheGame();
+            everyroll.PositionAfterEveryRoll();
         }
     }
 }
